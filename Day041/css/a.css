@@ -1,0 +1,175 @@
+
+#div1{
+	width: 100%;
+}
+
+#div1>img{
+	width: 100%;
+	
+}
+
+
+
+#div2{
+	display: flex;
+	justify-content: center;
+    flex-wrap: wrap;
+}
+#div2 > img{
+	width: 20%;
+	
+}
+
+
+#div3{
+	width: 100%;
+}
+#div3> #div3_top>img{
+	width: 100%;
+}
+#div3_bm{
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+   
+}
+
+#div3_bm>div>{
+	width: 25%;
+}
+#div3_bm>div>img{
+	width: 100%;
+}
+#div4{
+	width: 100%;
+	
+}
+#div4>#div4_top>img{
+	width: 100%;
+
+}
+#div4_bm{
+	width: 100%;
+	display: flex;
+	margin-top: -150px;
+	justify-content: space-around;
+}
+#div4_bm>div{
+	width: 20%;
+	
+}
+#div4_bm>div>img{
+	width: 100%;
+}
+#div4_mm{
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	
+}
+#div4_mm>div{
+	width: 10%;
+	
+}
+#div4_mm>div>img{
+	width: 70%;
+	
+}
+#div4_ziti{
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	
+}
+#div4_ziti>div{
+	width: 10%;
+	
+}
+#div4_ziti>div>p{
+	width: 100%;
+	color: red;
+	}
+#div5{
+	width: 100%;
+}
+#div5>#div5_top>img{
+	width: 100%;
+}
+#div5_bm{
+	width: 100%;
+	margin-top: -170px;
+	display: flex;
+	justify-content: space-around;
+   
+}
+
+#div5_bm>div>{
+	width: 25%;
+}
+#div5_bm>div>img{
+	width: 100%;
+}
+#div5_dm{
+	width: 100%;
+	margin-top: -70px;
+	display: flex;
+	justify-content: space-around;
+}
+#div5_dm>div>{
+	width: 20%;
+}
+#div5_dm>div>img{
+	padding-left: 30px;
+	width: 60%;
+}
+#div5_jia{
+	width: 100%;
+	margin-top: 20px;
+	display: flex;
+	justify-content: space-around;
+}
+#div6{
+	width: 100%;
+}
+#div6>#div6_top>img{
+	width: 100%;
+}
+#div6_bm1{
+	width: 100%;
+    display: flex;
+	justify-content: space-around;
+	
+   
+}
+#div6_bm1>img{
+	width: 100%;
+}	
+#div6_bm11{
+	width: 100%;
+    display: flex;
+	justify-content: space-between;
+	}
+#div6_bm11>p{
+	width: 50%;
+}
+	
+
+ #div6_bm2{
+	width: 100%;
+    display: flex;
+	justify-content: space-around;
+   
+}
+#div6_bm2>img{
+	width: 100%;
+
+}
+#div6_bm21{
+	width: 100%;
+    display: flex;
+	justify-content: space-between;}
+#div6_bm21>p{
+	width: 50%;
+}
+
+
